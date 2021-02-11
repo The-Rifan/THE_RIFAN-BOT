@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> cd THE_RIFAN-BOT
 > bash install.sh
 > node index.js
 ```
@@ -49,7 +49,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/The-Rifan/THE_RIFAN-BOT)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 089652898494
