@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/The-Rifan/THE_RIFAN-BOT)
 
 ## DONASI
-* Gopay : 089652898494
+* Pulsa : 089652898494
