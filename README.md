@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/The_Rifan/THE_RIFAN-BOT
+> git clone https://github.com/The-Rifan/THE_RIFAN-BOT
 > cd THE_RIFAN-BOT
 > bash install.sh
 > node index.js
