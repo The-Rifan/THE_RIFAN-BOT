@@ -34,10 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/The_Rifan/THE_RIFAN-BOT"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
-  "license": "ISC"
+  "author": "RIF'ANUL HAKIM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The_Rifan/THE_RIFAN-BOT/issues"
+  },
+  "homepage": "https://github.com/The_Rifan/THE_RIFAN-BOT#readme"
+}
